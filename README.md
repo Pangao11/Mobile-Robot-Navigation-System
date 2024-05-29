@@ -15,5 +15,5 @@ This repository contains a comprehensive project focused on mobile robot navigat
 To get started with this project, clone the repository and follow the installation instructions provided below.
 
 ```bash
-git clone https://github.com/yourusername/mobile-robot-navigation.git
-cd mobile-robot-navigation
+git clone https://github.com/Pangao11/mobile-robot-navigation.git
+cd Mobile-Robot-Navigation-System
